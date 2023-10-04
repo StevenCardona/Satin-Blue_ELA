@@ -1,0 +1,92 @@
+.section2__slide img {
+    width: 100vw;
+    height: 65vh;
+}
+
+.section2__text {
+    font-size: 17px;
+}
+
+.section2__button {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 840px) {
+    .section2__wrapper {
+        height: 100vh;
+    }
+
+    .section2__content {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .section2__slide img,
+    .section2__main img {
+        width: 300px;
+        height: 400px;
+    }
+
+    .section2__slide .slide {
+        overflow: hidden;
+        width: 350px;
+    }
+
+    .section2__box {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .section2__text {
+        font-size: 21px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .section2__content {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .section2__slide img,
+    .section2__main img {
+        width: 400px;
+        height: 78vh;
+    }
+
+    .section2__box {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .section2__text {
+        font-size: 21px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .section2__slide img,
+    .section2__main img {
+        width: 450px;
+        height: 78vh;
+    }
+
+    .section2__box {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .section2__text {
+        font-size: 24px;
+    }
+
+    .section2__slide .slide {
+        overflow: hidden;
+        width: 420px;
+    }
+}

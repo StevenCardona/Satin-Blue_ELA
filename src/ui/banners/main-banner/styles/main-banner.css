@@ -1,7 +1,7 @@
 .main_banner {
-    height: 25vh;
+    height: 50vh;
     width: 100vw;
-    background: url('/public/assets/images/Recurso 17.jpg') no-repeat top;
+    background: url('/public/assets/images/Recurso 17.jpg') no-repeat right;
     background-size: cover;
 }
 

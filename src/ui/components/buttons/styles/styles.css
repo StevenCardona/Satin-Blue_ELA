@@ -1,0 +1,26 @@
+.custom-button {
+    background-color: var(--blue);
+    border-radius: 20px;
+    color: var(--white);
+    width: fit-content;
+    padding: 3px 15px;
+    font-size: 15px;
+}
+
+.custom-button:hover {
+    color: var(--blue);
+    background-color: transparent;
+    border: 1px solid var(--blue);
+}
+
+@media screen and (min-width: 1200px) {
+    .custom-button {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .custom-button {
+        font-size: 21px;
+    }
+}
