@@ -5,6 +5,7 @@
 
     --white: #ffffff;
     --gray: #9a9a9a;
+    --blue: #003f8d;
 }
 
 * {
@@ -13,4 +14,8 @@
 
 body {
     overflow-x: hidden;
+}
+
+.text-blue {
+    color: var(--blue);
 }

@@ -1,0 +1,12 @@
+.main_banner {
+    height: 25vh;
+    width: 100vw;
+    background: url('/public/assets/images/Recurso 17.jpg') no-repeat top;
+    background-size: cover;
+}
+
+@media screen and (min-width: 640px) {
+    .main_banner {
+        height: 100vh;
+    }
+}
