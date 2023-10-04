@@ -2,7 +2,7 @@
 
 # Prueba SATIN BLUE - ELA
 
-Link del Demo [Ir al enlace](https://stevencardona.github.io/satin-blue-ela-test/).
+Link del Demo [Ir al enlace](https://stevencardona.github.io/Satin-Blue_ELA/).
 
 ## Construcción del Proyecto
 
