@@ -1,10 +1,11 @@
 import { IMG_ROUTES } from '../../../main/resources';
+import { Slider } from '../../components/slider';
 
 import './styles/styles.css';
 
 export const Colletion1 = () => {
     return (
-        <div className='collection1 my-3 mt-md-0'>
+        <div className='collection1 mt-3 mt-lg-0'>
             <div className='collection1__wrapper'>
                 <div className='row g-3'>
                     <div className='col-12 col-md-4'>
@@ -17,7 +18,7 @@ export const Colletion1 = () => {
                     </div>
 
                     <div className='col-12 col-md-4 '>
-                        <div className='row g-3 g-md-0 h-100'>
+                        <div className='row g-3 g-md-0 h-100 d-none d-md-flex'>
                             <div className='col-12 '>
                                 <img
                                     src={IMG_ROUTES.collection1.img2}
@@ -35,6 +36,15 @@ export const Colletion1 = () => {
                                 />
                             </div>
                         </div>
+
+                        <Slider
+                            slidesList={[
+                                IMG_ROUTES.collection1.img2,
+                                IMG_ROUTES.collection1.img3,
+                            ]}
+                            name='collection1'
+                            classNames='d-md-none'
+                        />
                     </div>
 
                     <div className='col-12 col-md-4'>

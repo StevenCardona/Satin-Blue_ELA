@@ -11,7 +11,7 @@ export const COPYS_ES = {
     },
 
     collection2: {
-        text: 'Anímate a llevarlo en blusas o sácale el máximo partido al color de temporada,',
+        text: 'Anímate a llevarlo en blusas o sácale el máximo partido al color de temporada',
         highlight: 'azul cobalto',
         text2: 'con una falda de corte sirena, un crop top, plataformas y un bolso inesperado',
     },

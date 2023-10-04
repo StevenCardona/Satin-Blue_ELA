@@ -20,9 +20,9 @@ export const IMG_ROUTES = {
         img1: '/satin-blue-ela-test/assets/images/Recurso 29.jpg',
     },
     slide2: {
-        img1: '/satin-blue-ela-test/assets/images/Recurso 24.jpg',
-        img2: '/satin-blue-ela-test/assets/images/Recurso 25.jpg',
-        img3: '/satin-blue-ela-test/assets/images/Recurso 26.jpg',
+        img1: '/satin-blue-ela-test/assets/images/SLIDE 2/Recurso 24.jpg',
+        img2: '/satin-blue-ela-test/assets/images/SLIDE 2/Recurso 25.jpg',
+        img3: '/satin-blue-ela-test/assets/images/SLIDE 2/Recurso 26.jpg',
     },
 
     collection2: {
