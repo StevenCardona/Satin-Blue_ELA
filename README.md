@@ -2,21 +2,16 @@
 
 # Prueba SATIN BLUE - ELA
 
-In the project directory, you can run:
+Link del Demo [Ir al enlace](https://stevencardona.github.io/satin-blue-ela-test/).
 
-### `npm start`
+## Construcción del Proyecto
 
-### `npm run build`
+-   a
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+asda
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Links de interes
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Mi perfil de [Linkedin](https://www.linkedin.com/in/stevencardona/).
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Otro proyecto en el cual colabore [Ir al Proyecto](https://stevencar2004.github.io/la_cuisine/)
