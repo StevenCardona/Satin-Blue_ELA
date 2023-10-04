@@ -6,9 +6,12 @@ Link del Demo [Ir al enlace](https://stevencardona.github.io/satin-blue-ela-test
 
 ## Construcción del Proyecto
 
--   a
+-   Inicialmente se comprimieron las imagenes para optimizar los tiempos de carga de la página,
+-   Se opto por crear un archivo con las rutas de la imagenes y otro con los textos de la aplicación
+-   Se crearon los componentes que mas se iban a usar
+-   Las secciones se separaron en carpetas para modularizarlas y son llamadas en el momento que se requieran
 
-asda
+La finalidad de esto es poder tener una configuración flexible y que no debamos ir sección por sección modificando una configuración que probablemente se use durante toda la página.
 
 ## Links de interes
 
