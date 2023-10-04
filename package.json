@@ -2,7 +2,7 @@
     "name": "satin-blue-ela-test",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://StevenCardona.github.io/satin-blue-ela-test/",
+    "homepage": "https://StevenCardona.github.io/Satin-Blue_ELA/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
         "@testing-library/react": "^13.4.0",
