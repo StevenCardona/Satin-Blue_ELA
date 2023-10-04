@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/satin-blue-ela-test/static/css/main.32b097a3.css",
-    "main.js": "/satin-blue-ela-test/static/js/main.653a72c1.js",
-    "static/js/787.0f10f937.chunk.js": "/satin-blue-ela-test/static/js/787.0f10f937.chunk.js",
-    "static/media/Recurso 17.jpg": "/satin-blue-ela-test/static/media/Recurso 17.b2e4f3d15fc9f208fd5b.jpg",
-    "index.html": "/satin-blue-ela-test/index.html",
-    "main.32b097a3.css.map": "/satin-blue-ela-test/static/css/main.32b097a3.css.map",
-    "main.653a72c1.js.map": "/satin-blue-ela-test/static/js/main.653a72c1.js.map",
-    "787.0f10f937.chunk.js.map": "/satin-blue-ela-test/static/js/787.0f10f937.chunk.js.map"
+    "main.css": "/Satin-Blue_ELA/static/css/main.54639d7b.css",
+    "main.js": "/Satin-Blue_ELA/static/js/main.8356a282.js",
+    "static/js/787.0f10f937.chunk.js": "/Satin-Blue_ELA/static/js/787.0f10f937.chunk.js",
+    "static/media/Recurso 17.jpg": "/Satin-Blue_ELA/static/media/Recurso 17.b2e4f3d15fc9f208fd5b.jpg",
+    "index.html": "/Satin-Blue_ELA/index.html",
+    "main.54639d7b.css.map": "/Satin-Blue_ELA/static/css/main.54639d7b.css.map",
+    "main.8356a282.js.map": "/Satin-Blue_ELA/static/js/main.8356a282.js.map",
+    "787.0f10f937.chunk.js.map": "/Satin-Blue_ELA/static/js/787.0f10f937.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32b097a3.css",
-    "static/js/main.653a72c1.js"
+    "static/css/main.54639d7b.css",
+    "static/js/main.8356a282.js"
   ]
 }
