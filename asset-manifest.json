@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Satin-Blue_ELA/static/css/main.54639d7b.css",
-    "main.js": "/Satin-Blue_ELA/static/js/main.8356a282.js",
+    "main.css": "/Satin-Blue_ELA/static/css/main.fa4a2166.css",
+    "main.js": "/Satin-Blue_ELA/static/js/main.51334f15.js",
     "static/js/787.0f10f937.chunk.js": "/Satin-Blue_ELA/static/js/787.0f10f937.chunk.js",
     "static/media/Recurso 17.jpg": "/Satin-Blue_ELA/static/media/Recurso 17.b2e4f3d15fc9f208fd5b.jpg",
     "index.html": "/Satin-Blue_ELA/index.html",
-    "main.54639d7b.css.map": "/Satin-Blue_ELA/static/css/main.54639d7b.css.map",
-    "main.8356a282.js.map": "/Satin-Blue_ELA/static/js/main.8356a282.js.map",
+    "main.fa4a2166.css.map": "/Satin-Blue_ELA/static/css/main.fa4a2166.css.map",
+    "main.51334f15.js.map": "/Satin-Blue_ELA/static/js/main.51334f15.js.map",
     "787.0f10f937.chunk.js.map": "/Satin-Blue_ELA/static/js/787.0f10f937.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54639d7b.css",
-    "static/js/main.8356a282.js"
+    "static/css/main.fa4a2166.css",
+    "static/js/main.51334f15.js"
   ]
 }
