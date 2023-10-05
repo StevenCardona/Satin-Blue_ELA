@@ -1,8 +1,4 @@
-interface SliderProps {
-    slidesList: string[];
-    classNames?: string;
-    name: string;
-}
+import { SliderProps } from '../../../domain/shared/types';
 
 export const Slider = ({ slidesList, classNames, name }: SliderProps) => {
     return (
